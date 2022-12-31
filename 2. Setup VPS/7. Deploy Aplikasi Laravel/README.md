@@ -4,14 +4,14 @@
 ## Deploy aplikasi Laravel
 > Tentang Laravel selengkapnya dapat dipelajari [disini](https://laravel.com/docs)
 
-Pada materi kali ini, project Laravel yang digunakan bisa di-*clone* [disini](https://github.com/teknoaplikasi/bootcamp-laravel)
+Pada materi kali ini, project Laravel yang digunakan bisa di-*clone* [disini](https://github.com/agung3wi/laravel-scalable)
 
 1. Clone project Laravel ini ke local.
 ```
-git clone https://github.com/teknoaplikasi/bootcamp-laravel
+git clone https://github.com/agung3wi/laravel-scalable
 ```
 
-2. Setelah ter-clone, install *package-package* dalam composer dengan menjalankan *command* ini.
+2. Setelah tercloning, install *package-package* dalam composer dengan menjalankan *command* ini.
 ```
 composer install
 ```

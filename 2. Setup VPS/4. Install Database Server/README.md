@@ -26,13 +26,13 @@ mysql -u root
 ```
 CREATE USER 'username'@'host' IDENTIFIED BY 'password';
 ```
-> **contoh** : `CREATE USER 'bambang'@'%' IDENTIFIED BY 'inipasswordnya';`
+> **contoh** : `CREATE USER 'admin'@'%' IDENTIFIED BY 'inipasswordnya';`
 
 Untuk mengatur membuat database
 ```
 CREATE database nama_database;
 ```
-> **contoh** : `CREATE USER 'bambang'@'%' IDENTIFIED BY 'inipasswordnya';`
+> **contoh** : `CREATE USER 'admin'@'%' IDENTIFIED BY 'inipasswordnya';`
 
 Untuk mengatur privileges user
 ```
