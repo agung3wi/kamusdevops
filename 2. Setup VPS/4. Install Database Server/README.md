@@ -39,14 +39,4 @@ Untuk mengatur privileges user
 GRANT ALL PRIVILEGES ON database.table TO 'username'@'host';
 ```
 
-#### Mengamankan nginx dengan Let’s Encrypt
-1. Instalasi Certbot
-> Certbot adalah sertifikat SSL gratis yang disediakan oleh Let’s Encrypt
-```
-sudo apt install certbot python3-certbot-nginx
-```
 
-2. Memperoleh sertifikat SSL
-```
-sudo certbot --nginx -d example.com -d www.example.com
-```
