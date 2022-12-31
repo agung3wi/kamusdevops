@@ -7,5 +7,5 @@ Materi yang akan dipelajari pada sesi ini sebagai berikut:
 3. [Install & Konfigurasi PHP](./3.%20Install%20&%20Konfigurasi%20PHP)
 4. [Install Database Server](./4.%20Install%20Database%20Server)
 5. [Install & konfigurasi Nodejs Application](./6.%20Install%20&%20konfigurasi%20Nodejs%20Application)
-6. [Install & Konfigurasi Firewall (UFW)](./6.%20Install%20&%20Konfigurasi%20Firewall%20(UFW))
+6. [Install & Konfigurasi Firewall (UFW) & Certbot](./6.%20Install%20&%20Konfigurasi%20Firewall%20(UFW)%20%26%20Certbot)
 7. [Deploy Aplikasi Laravel](./7.%20Deploy%20Aplikasi%20Laravel)
