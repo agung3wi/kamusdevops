@@ -1,10 +1,3 @@
-# Docker
-
-* [Referensi Install Postgre SQL Pada Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-install-postgresql-on-ubuntu-20-04-quickstart-id)
-* [Referensi Install Apache](https://www.digitalocean.com/community/tutorials/how-to-install-the-apache-web-server-on-ubuntu-20-04-id)
-* [Referensi Install Docker](https://docs.docker.com/get-docker)
-* [Docker Hub](hub.docker.com)
-
 ## Pengertian Docker
 
 Docker adalah platform perangkat lunak yang memungkinkan Anda membuat, menguji, dan menerapkan aplikasi dengan cepat. Docker mengemas perangkat lunak ke dalam unit standar yang disebut kontainer yang memiliki semua yang diperlukan perangkat lunak agar dapat berfungsi termasuk pustaka, alat sistem, kode, dan waktu proses. Dengan menggunakan Docker, Anda dapat dengan cepat menerapkan dan menskalakan aplikasi ke lingkungan apa pun dan yakin bahwa kode Anda akan berjalan.
@@ -16,7 +9,12 @@ Docker adalah platform perangkat lunak yang memungkinkan Anda membuat, menguji, 
 | 2 | Ukuran Kecil | Ukuran Besar |
 | 3 | Resource Fleksible | Resource Terbatas |
 
-# System requirements
+# Install Docker
+
+* [Referensi Install Docker](https://docs.docker.com/get-docker)
+* [Docker Hub](hub.docker.com)
+
+# System requirements di Windows
 
 ### WSL 2 backend
 
